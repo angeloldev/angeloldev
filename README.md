@@ -1,10 +1,10 @@
 <!-- Banner ou frase de boas-vindas -->
-# 👋 Olá, eu sou o Angelo!
-
+# Bem-vindo ao meu perfil!
 <p>
-🎓 Estudante de Engenharia de Software na Univerdade de Brasília<br>
-💻 Aficionado por tecnologia e música<br>
-🚀 Atualmente aprendendo <b>C, Estruturas de Dados e Desenvolvimento Web Fullstack<b><br>
+🙋‍♂️ Me chamo Ângelo Cordova!
+🎓 Estudante de Engenharia de Software na Univerdade de Brasília.<br>
+💻 Aficionado por tecnologia e música.<br>
+🚀 Atualmente aprendendo <b>C, Estruturas de Dados e Desenvolvimento Web Fullstack<b>.<br>
 </p>
 
 ---
