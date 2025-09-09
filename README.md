@@ -20,10 +20,11 @@
 
 ---
 
-### 📊 Tecnologias mais usadas
+## 📊 Meus Repositórios
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angeloldev&layout=donut&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=angeloldev&show_icons=true&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angeloldev&layout=compact&theme=radical"/>
 </p>
 
 ---
