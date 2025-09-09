@@ -4,7 +4,7 @@
 <p>
 🎓 Estudante de Engenharia de Software na Univerdade de Brasília<br>
 💻 Aficionado por tecnologia e música<br>
-🚀 Atualmente aprendendo **C, Estruturas de Dados e Desenvolvimento Web Fullstack**  <br>
+🚀 Atualmente aprendendo <b>C, Estruturas de Dados e Desenvolvimento Web Fullstack<b><br>
 </p>
 
 ---
