@@ -69,4 +69,6 @@
 
 ---
 
-<img src="https://static.wikia.nocookie.net/liga-da-zueira-oficial/images/d/da/One-piece-fenix.gif/revision/latest?cb=20220514184839&path-prefix=pt-br"/>
+<p align="center">
+  <img src="https://static.wikia.nocookie.net/liga-da-zueira-oficial/images/d/da/One-piece-fenix.gif/revision/latest?cb=20220514184839&path-prefix=pt-br" alt="One Piece Gif" width="500"/>
+</p>
