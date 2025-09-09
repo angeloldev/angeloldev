@@ -1,7 +1,7 @@
 <!-- Banner ou frase de boas-vindas -->
 # Bem-vindo ao meu perfil!
 <p>
-🙋‍♂️ Me chamo Ângelo Cordova!
+🙋‍♂️ Me chamo Ângelo Cordova!<br>
 🎓 Estudante de Engenharia de Software na Univerdade de Brasília.<br>
 💻 Aficionado por tecnologia e música.<br>
 🚀 Atualmente aprendendo <b>C, Estruturas de Dados e Desenvolvimento Web Fullstack<b>.<br>
