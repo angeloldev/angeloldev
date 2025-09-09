@@ -23,7 +23,7 @@
 ### 📊 Tecnologias mais usadas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=donut&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angeloldev&layout=donut&theme=radical"/>
 </p>
 
 ---
