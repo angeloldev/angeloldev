@@ -2,7 +2,7 @@
 # 👋 Olá, eu sou o Angelo!
 
 🎓 Estudante de Engenharia de Software na Univerdade de Brasília
-💻 Apaixonado por programação, música e tecnologia  
+💻 Aficionado por tecnologia e música
 🚀 Atualmente aprendendo **C, Estruturas de Dados e Desenvolvimento Web Fullstack**  
 
 ---
