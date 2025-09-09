@@ -66,3 +66,7 @@
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+
+---
+
+<img src="https://static.wikia.nocookie.net/liga-da-zueira-oficial/images/d/da/One-piece-fenix.gif/revision/latest?cb=20220514184839&path-prefix=pt-br"/>
