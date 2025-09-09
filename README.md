@@ -1,9 +1,11 @@
 <!-- Banner ou frase de boas-vindas -->
 # 👋 Olá, eu sou o Angelo!
 
-🎓 Estudante de Engenharia de Software na Univerdade de Brasília
-💻 Aficionado por tecnologia e música
-🚀 Atualmente aprendendo **C, Estruturas de Dados e Desenvolvimento Web Fullstack**  
+<p>
+🎓 Estudante de Engenharia de Software na Univerdade de Brasília<br>
+💻 Aficionado por tecnologia e música<br>
+🚀 Atualmente aprendendo **C, Estruturas de Dados e Desenvolvimento Web Fullstack**  <br>
+</p>
 
 ---
 
